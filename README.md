@@ -1,3 +1,3 @@
 # UnityURP-UDIM
 
-Its crazy how unity still not have native support for UDIM
+Because Unity still does not have native support for UDIM...
